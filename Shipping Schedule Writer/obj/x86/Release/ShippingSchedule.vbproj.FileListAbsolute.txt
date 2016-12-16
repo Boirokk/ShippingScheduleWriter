@@ -1,0 +1,99 @@
+C:\Users\Chad\Documents\Visual Studio 2010\Projects\Shipping Schedule Writer\bin\Release\Shipping Schedule.exe.config
+C:\Users\Chad\Documents\Visual Studio 2010\Projects\Shipping Schedule Writer\obj\x86\Release\Shipping Schedule.exe
+C:\Users\Chad\Documents\Visual Studio 2010\Projects\Shipping Schedule Writer\obj\x86\Release\Shipping Schedule.xml
+C:\Users\Chad\Documents\Visual Studio 2010\Projects\Shipping Schedule Writer\obj\x86\Release\Shipping Schedule.pdb
+C:\Users\Chad\Documents\Visual Studio 2010\Projects\Shipping Schedule Writer\bin\Release\Shipping Schedule.exe.manifest
+C:\Users\Chad\Documents\Visual Studio 2010\Projects\Shipping Schedule Writer\bin\Release\Shipping Schedule.application
+C:\Users\Chad\Documents\Visual Studio 2010\Projects\Shipping Schedule Writer\bin\Release\Shipping Schedule.exe
+C:\Users\Chad\Documents\Visual Studio 2010\Projects\Shipping Schedule Writer\bin\Release\Shipping Schedule.pdb
+C:\Users\Chad\Documents\Visual Studio 2010\Projects\Shipping Schedule Writer\bin\Release\Shipping Schedule.xml
+C:\Users\Chad\Documents\Visual Studio 2010\Projects\Shipping Schedule Writer\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Chad\Documents\Visual Studio 2010\Projects\Shipping Schedule Writer\obj\x86\Release\ShippingSchedule.ShippingSchedule.resources
+C:\Users\Chad\Documents\Visual Studio 2010\Projects\Shipping Schedule Writer\obj\x86\Release\ShippingSchedule.Resources.resources
+C:\Users\Chad\Documents\Visual Studio 2010\Projects\Shipping Schedule Writer\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Chad\Documents\Visual Studio 2010\Projects\Shipping Schedule Writer\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Chad\Documents\Visual Studio 2010\Projects\Shipping Schedule Writer\obj\x86\Release\Shipping Schedule.exe.manifest
+C:\Users\Chad\Documents\Visual Studio 2010\Projects\Shipping Schedule Writer\obj\x86\Release\Shipping Schedule.application
+C:\Users\Chad\Documents\Visual Studio 2010\Projects\Shipping Schedule Writer Version 1.2\bin\Release\Shipping Schedule.exe.config
+C:\Users\Chad\Documents\Visual Studio 2010\Projects\Shipping Schedule Writer Version 1.2\bin\Release\Shipping Schedule.exe.manifest
+C:\Users\Chad\Documents\Visual Studio 2010\Projects\Shipping Schedule Writer Version 1.2\bin\Release\Shipping Schedule.application
+C:\Users\Chad\Documents\Visual Studio 2010\Projects\Shipping Schedule Writer Version 1.2\bin\Release\Shipping Schedule.exe
+C:\Users\Chad\Documents\Visual Studio 2010\Projects\Shipping Schedule Writer Version 1.2\bin\Release\Shipping Schedule.pdb
+C:\Users\Chad\Documents\Visual Studio 2010\Projects\Shipping Schedule Writer Version 1.2\bin\Release\Shipping Schedule.xml
+C:\Users\Chad\Documents\Visual Studio 2010\Projects\Shipping Schedule Writer Version 1.2\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Chad\Documents\Visual Studio 2010\Projects\Shipping Schedule Writer Version 1.2\obj\x86\Release\ShippingSchedule.ShippingSchedule.resources
+C:\Users\Chad\Documents\Visual Studio 2010\Projects\Shipping Schedule Writer Version 1.2\obj\x86\Release\ShippingSchedule.Resources.resources
+C:\Users\Chad\Documents\Visual Studio 2010\Projects\Shipping Schedule Writer Version 1.2\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Chad\Documents\Visual Studio 2010\Projects\Shipping Schedule Writer Version 1.2\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Chad\Documents\Visual Studio 2010\Projects\Shipping Schedule Writer Version 1.2\obj\x86\Release\Shipping Schedule.exe.manifest
+C:\Users\Chad\Documents\Visual Studio 2010\Projects\Shipping Schedule Writer Version 1.2\obj\x86\Release\Shipping Schedule.application
+C:\Users\Chad\Documents\Visual Studio 2010\Projects\Shipping Schedule Writer Version 1.2\obj\x86\Release\Shipping Schedule.exe
+C:\Users\Chad\Documents\Visual Studio 2010\Projects\Shipping Schedule Writer Version 1.2\obj\x86\Release\Shipping Schedule.xml
+C:\Users\Chad\Documents\Visual Studio 2010\Projects\Shipping Schedule Writer Version 1.2\obj\x86\Release\Shipping Schedule.pdb
+F:\Shipping Schedule Writer Version 1.2\bin\Release\Shipping Schedule.exe.config
+F:\Shipping Schedule Writer Version 1.2\bin\Release\Shipping Schedule.exe.manifest
+F:\Shipping Schedule Writer Version 1.2\bin\Release\Shipping Schedule.application
+F:\Shipping Schedule Writer Version 1.2\bin\Release\Shipping Schedule.exe
+F:\Shipping Schedule Writer Version 1.2\bin\Release\Shipping Schedule.pdb
+F:\Shipping Schedule Writer Version 1.2\bin\Release\Shipping Schedule.xml
+F:\Shipping Schedule Writer Version 1.2\obj\x86\Release\ResolveAssemblyReference.cache
+F:\Shipping Schedule Writer Version 1.2\obj\x86\Release\ShippingSchedule.ShippingSchedule.resources
+F:\Shipping Schedule Writer Version 1.2\obj\x86\Release\ShippingSchedule.Resources.resources
+F:\Shipping Schedule Writer Version 1.2\obj\x86\Release\GenerateResource.read.1.tlog
+F:\Shipping Schedule Writer Version 1.2\obj\x86\Release\GenerateResource.write.1.tlog
+F:\Shipping Schedule Writer Version 1.2\obj\x86\Release\Shipping Schedule.exe.manifest
+F:\Shipping Schedule Writer Version 1.2\obj\x86\Release\Shipping Schedule.application
+F:\Shipping Schedule Writer Version 1.2\obj\x86\Release\Shipping Schedule.exe
+F:\Shipping Schedule Writer Version 1.2\obj\x86\Release\Shipping Schedule.xml
+F:\Shipping Schedule Writer Version 1.2\obj\x86\Release\Shipping Schedule.pdb
+C:\Users\cczilli\Desktop\Shipping Schedule Writer Version 1.2\bin\Release\Shipping Schedule.exe.config
+C:\Users\cczilli\Desktop\Shipping Schedule Writer Version 1.2\obj\x86\Release\Shipping Schedule.exe
+C:\Users\cczilli\Desktop\Shipping Schedule Writer Version 1.2\obj\x86\Release\Shipping Schedule.xml
+C:\Users\cczilli\Desktop\Shipping Schedule Writer Version 1.2\obj\x86\Release\Shipping Schedule.pdb
+C:\Users\cczilli\Documents\Visual Studio 2010\Projects\Shipping Schedule Writer Version 1.2\bin\Release\Shipping Schedule.exe.config
+C:\Users\cczilli\Documents\Visual Studio 2010\Projects\Shipping Schedule Writer Version 1.2\obj\x86\Release\Shipping Schedule.exe
+C:\Users\cczilli\Documents\Visual Studio 2010\Projects\Shipping Schedule Writer Version 1.2\obj\x86\Release\Shipping Schedule.xml
+C:\Users\cczilli\Documents\Visual Studio 2010\Projects\Shipping Schedule Writer Version 1.2\obj\x86\Release\Shipping Schedule.pdb
+S:\Product Development\Software Development\Shipping Schedule Writer Version 1.2\bin\Release\Shipping Schedule.exe.config
+S:\Product Development\Software Development\Shipping Schedule Writer Version 1.2\obj\x86\Release\Shipping Schedule.exe
+S:\Product Development\Software Development\Shipping Schedule Writer Version 1.2\obj\x86\Release\Shipping Schedule.xml
+S:\Product Development\Software Development\Shipping Schedule Writer Version 1.2\obj\x86\Release\Shipping Schedule.pdb
+S:\Product Development\Software Development\Shipping Schedule Writer Version 1.2\bin\Release\Shipping Schedule.exe.manifest
+S:\Product Development\Software Development\Shipping Schedule Writer Version 1.2\bin\Release\Shipping Schedule.application
+S:\Product Development\Software Development\Shipping Schedule Writer Version 1.2\bin\Release\Shipping Schedule.exe
+S:\Product Development\Software Development\Shipping Schedule Writer Version 1.2\bin\Release\Shipping Schedule.pdb
+S:\Product Development\Software Development\Shipping Schedule Writer Version 1.2\bin\Release\Shipping Schedule.xml
+S:\Product Development\Software Development\Shipping Schedule Writer Version 1.2\obj\x86\Release\ResolveAssemblyReference.cache
+S:\Product Development\Software Development\Shipping Schedule Writer Version 1.2\obj\x86\Release\ShippingSchedule.ShippingSchedule.resources
+S:\Product Development\Software Development\Shipping Schedule Writer Version 1.2\obj\x86\Release\ShippingSchedule.Resources.resources
+S:\Product Development\Software Development\Shipping Schedule Writer Version 1.2\obj\x86\Release\GenerateResource.read.1.tlog
+S:\Product Development\Software Development\Shipping Schedule Writer Version 1.2\obj\x86\Release\GenerateResource.write.1.tlog
+S:\Product Development\Software Development\Shipping Schedule Writer Version 1.2\obj\x86\Release\Shipping Schedule.exe.manifest
+S:\Product Development\Software Development\Shipping Schedule Writer Version 1.2\obj\x86\Release\Shipping Schedule.application
+S:\Product Development\Software Development\TO BE DELETED\Shipping Schedule Writer Version 1.2\bin\Release\Shipping Schedule.exe.config
+S:\Product Development\Software Development\TO BE DELETED\Shipping Schedule Writer Version 1.2\obj\x86\Release\Shipping Schedule.exe
+S:\Product Development\Software Development\TO BE DELETED\Shipping Schedule Writer Version 1.2\obj\x86\Release\Shipping Schedule.xml
+S:\Product Development\Software Development\TO BE DELETED\Shipping Schedule Writer Version 1.2\obj\x86\Release\Shipping Schedule.pdb
+S:\Product Development\Software Development\SHIPPING SCHEDULE\Shipping Schedule Writer\bin\Release\Shipping Schedule.exe.config
+S:\Product Development\Software Development\SHIPPING SCHEDULE\Shipping Schedule Writer\obj\x86\Release\Shipping Schedule.exe
+S:\Product Development\Software Development\SHIPPING SCHEDULE\Shipping Schedule Writer\obj\x86\Release\Shipping Schedule.xml
+S:\Product Development\Software Development\SHIPPING SCHEDULE\Shipping Schedule Writer\obj\x86\Release\Shipping Schedule.pdb
+S:\Product Development\Software Development\Traffic Board\Shipping Schedule Writer\bin\Release\Shipping Schedule.exe.config
+S:\Product Development\Software Development\Traffic Board\Shipping Schedule Writer\obj\x86\Release\Shipping Schedule.exe
+S:\Product Development\Software Development\Traffic Board\Shipping Schedule Writer\obj\x86\Release\Shipping Schedule.xml
+S:\Product Development\Software Development\Traffic Board\Shipping Schedule Writer\obj\x86\Release\Shipping Schedule.pdb
+S:\Product Development\Software Development\Traffic Board\Shipping Schedule Writer\obj\x86\Release\ShippingSchedule.vbprojResolveAssemblyReference.cache
+S:\Product Development\Software Development\Traffic Board\Shipping Schedule Writer\obj\x86\Release\ShippingSchedule.ShippingSchedule.resources
+S:\Product Development\Software Development\Traffic Board\Shipping Schedule Writer\obj\x86\Release\ShippingSchedule.Resources.resources
+S:\Product Development\Software Development\Traffic Board\Shipping Schedule Writer\obj\x86\Release\ShippingSchedule.vbproj.GenerateResource.Cache
+S:\Product Development\Software Development\Traffic Board\Shipping Schedule Writer\bin\Release\Shipping Schedule.exe.manifest
+S:\Product Development\Software Development\Traffic Board\Shipping Schedule Writer\bin\Release\Shipping Schedule.application
+S:\Product Development\Software Development\Traffic Board\Shipping Schedule Writer\bin\Release\Shipping Schedule.exe
+S:\Product Development\Software Development\Traffic Board\Shipping Schedule Writer\bin\Release\Shipping Schedule.pdb
+S:\Product Development\Software Development\Traffic Board\Shipping Schedule Writer\bin\Release\Shipping Schedule.xml
+S:\Product Development\Software Development\Traffic Board\Shipping Schedule Writer\obj\x86\Release\Shipping Schedule.exe.manifest
+S:\Product Development\Software Development\Traffic Board\Shipping Schedule Writer\obj\x86\Release\Shipping Schedule.application
+E:\Documents\GitHub\ShippingScheduleWriter\Shipping Schedule Writer\bin\Release\Shipping Schedule.exe.config
+E:\Documents\GitHub\ShippingScheduleWriter\Shipping Schedule Writer\obj\x86\Release\Shipping Schedule.exe
+E:\Documents\GitHub\ShippingScheduleWriter\Shipping Schedule Writer\obj\x86\Release\Shipping Schedule.xml
+E:\Documents\GitHub\ShippingScheduleWriter\Shipping Schedule Writer\obj\x86\Release\Shipping Schedule.pdb
